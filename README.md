@@ -56,3 +56,5 @@ Bash
 sam build --use-container
 sam deploy --parameter-overrides KnowledgeBaseId=<TU_KB_ID>
 
+**Autor:** Sebastián Varón
+
