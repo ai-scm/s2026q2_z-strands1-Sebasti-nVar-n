@@ -55,6 +55,4 @@ Ejecuta los comandos de SAM:
 Bash
 sam build --use-container
 sam deploy --parameter-overrides KnowledgeBaseId=<TU_KB_ID>
-Autor: [Tu Nombre Completo]
-Semillero: [Nombre del Semillero]
-Fecha: Junio 2026
+
