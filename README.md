@@ -6,8 +6,7 @@ Este proyecto es el resultado del laboratorio "Create Advanced AI Agents with St
 
 ├── src/
 │   ├── lambda_function.py      # Código principal del agente
-│   ├── requirements.txt        # Dependencias (strands, strands-tools, etc.)
-│   └── strands/                # Carpeta de la librería 
+│   ├── requirements.txt        # Dependencias (strands, strands-tools, etc.) 
 ├── template.yaml               # Definición de la infraestructura (AWS SAM)
 ├── samconfig.toml              # Configuración de despliegue de SAM
 ├── seattletouroperators.txt    # Datos de la base de conocimientos (RAG)
