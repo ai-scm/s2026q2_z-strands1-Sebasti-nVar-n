@@ -2,6 +2,8 @@
 Este proyecto es el resultado del laboratorio "Create Advanced AI Agents with Strands SDK and Amazon Bedrock", donde se desarrolló un agente de viajes inteligente capaz de gestionar vuelos, consultar clima en tiempo real, mantener memoria conversacional y acceder a bases de conocimiento privadas mediante RAG.
 
 # s2026q2a-strands1-Sebasti-nVar-n/
+```
+
 ├── src/
 │   ├── lambda_function.py      # Código principal del agente
 │   ├── requirements.txt        # Dependencias (strands, strands-tools, etc.)
@@ -11,7 +13,7 @@ Este proyecto es el resultado del laboratorio "Create Advanced AI Agents with St
 ├── seattletouroperators.txt    # Datos de la base de conocimientos (RAG)
 ├── .gitignore                  # Archivos ignorados (.aws-sam/, response.json)
 └── README.md                   # Documentación del proyecto
-
+```
 # 🧪 Descripción del Proyecto
 El agente fue construido utilizando el SDK de Strands y Amazon Bedrock, implementado en una arquitectura serverless sobre AWS Lambda y gestionado con AWS SAM (Serverless Application Model).
 
