@@ -3,7 +3,7 @@ Este proyecto es el resultado del laboratorio "Create Advanced AI Agents with St
 
 # s2026q2a-strands1-Sebasti-nVar-n/
 ```
-
+├── screenshot
 ├── src/
 │   ├── lambda_function.py      # Código principal del agente
 │   ├── requirements.txt        # Dependencias (strands, strands-tools, etc.) 
